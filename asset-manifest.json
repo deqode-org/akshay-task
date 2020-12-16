@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/akshay-task/static/css/main.a07a1cda.chunk.css",
+    "main.js": "/akshay-task/static/js/main.ce72bd0a.chunk.js",
+    "main.js.map": "/akshay-task/static/js/main.ce72bd0a.chunk.js.map",
+    "runtime-main.js": "/akshay-task/static/js/runtime-main.9544c1c6.js",
+    "runtime-main.js.map": "/akshay-task/static/js/runtime-main.9544c1c6.js.map",
+    "static/js/2.7bfd4ed3.chunk.js": "/akshay-task/static/js/2.7bfd4ed3.chunk.js",
+    "static/js/2.7bfd4ed3.chunk.js.map": "/akshay-task/static/js/2.7bfd4ed3.chunk.js.map",
+    "index.html": "/akshay-task/index.html",
+    "precache-manifest.21275ee3cf55982bce030db41db01290.js": "/akshay-task/precache-manifest.21275ee3cf55982bce030db41db01290.js",
+    "service-worker.js": "/akshay-task/service-worker.js",
+    "static/css/main.a07a1cda.chunk.css.map": "/akshay-task/static/css/main.a07a1cda.chunk.css.map",
+    "static/js/2.7bfd4ed3.chunk.js.LICENSE.txt": "/akshay-task/static/js/2.7bfd4ed3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9544c1c6.js",
+    "static/js/2.7bfd4ed3.chunk.js",
+    "static/css/main.a07a1cda.chunk.css",
+    "static/js/main.ce72bd0a.chunk.js"
+  ]
+}
