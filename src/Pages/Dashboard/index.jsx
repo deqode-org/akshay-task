@@ -1,10 +1,10 @@
 import React from "react";
-import AutocompletInputBox from "../../Components/AutocompletInputBox";
+import AutoCompleteInputBox from "../../Components/AutoCompleteInputBox";
 import "./Dashboard.css";
 
 const Dashboard = () => (
   <div className="dashboard">
-    <AutocompletInputBox />
+    <AutoCompleteInputBox />
   </div>
 );
 

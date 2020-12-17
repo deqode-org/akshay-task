@@ -9,7 +9,7 @@ const KEYBOARD_KEYS = {
 	DOWN:	40,
 };
 
-class AutocompletInputBox extends React.Component {
+class AutoCompleteInputBox extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -108,4 +108,4 @@ class AutocompletInputBox extends React.Component {
   }
 }
 
-export default AutocompletInputBox;
+export default AutoCompleteInputBox;
