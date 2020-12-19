@@ -13,9 +13,9 @@ const Suggestions = ({
   <OnOutsiceClick onOutsideClick={hideSuggestions}>
     <ul className="dropdown-menu show">
       {suggestions.map((suggestion, index) => (
-        <li 
+        <li
           key={suggestion}
-          className={`dropdown-item ${selectedIndex === index && 'highlight'}`}
+          className={`dropdown-item ${selectedIndex === index && "highlight"}`}
           onClick={() => suggestionSelected(suggestion)}
         >
           {suggestion}
